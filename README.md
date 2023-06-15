@@ -11,3 +11,4 @@
 - History view of completed tasks.
 ![image](https://github.com/locpham246/CSC3380/assets/52533174/e952ebcf-0efa-4340-b06b-b02d22e42e49)
 - This UML is NVC
+![image](https://github.com/locpham246/CSC3380/assets/52533174/c00db50f-f7e5-4be1-a0b3-33498346f6a2)
