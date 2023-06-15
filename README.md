@@ -1,5 +1,5 @@
 # CSC3380
-###Features:
+### Features:
 - Developed with Java, Eclipse, WindowBuilder.
 - Employee and employer accounts. 
 - Checklist creation. 
