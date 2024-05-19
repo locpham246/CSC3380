@@ -1,4 +1,4 @@
-# CSC3380
+# TaskMasster
 ### Features:
 - Developed with Java, Eclipse, WindowBuilder.
 - Employee and employer accounts. 
